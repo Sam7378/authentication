@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169610403096",
+    "project_id": "fashionkart-78b66",
+    "storage_bucket": "fashionkart-78b66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169610403096:android:54f43f0d4f7771f7d2d26d",
+        "android_client_info": {
+          "package_name": "com.samprojects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-j6bBxsfYeQtE8pI6Qtc64Rja0iiURcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
